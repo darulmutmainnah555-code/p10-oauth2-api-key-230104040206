@@ -2,7 +2,7 @@
 ## Simulasi API Key & OAuth 2.0  
 Mata Kuliah: Web Service Engineering  
 Nama: *Syfa Aulia Darul Mutmainnah*  
-NIM: *<230104040206>*  
+NIM: *230104040206*  
 
 ---
 
