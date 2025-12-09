@@ -58,50 +58,50 @@ p10-oauth2-api-key-230104040206
 # 📷 Lampiran Screenshot Hasil Praktikum pengujian API menggunakan Postman :
 
 ## 1. http status code berhasil
-[http://localhost:3000/](screenshots/statuscode-berhasil.png)
+![http://localhost:3000/](./screenshots/statuscode-berhasil.png)
 
 ## 2. Pengujian Key (Gagal,Key Hilang)
-[/api/v1/products/public]
-(screenshots/getpublic-keyhilang.png)
+![/api/v1/products/public]
+(./screenshots/getpublic-keyhilang.png)
 
 ## 3. Pengujian Key (Gagal,Key Palsu)
-[/api/v1/products/public](screenshots/getpublic-keypalsu.png)
+![/api/v1/products/public](./screenshots/getpublic-keypalsu.png)
 
 ## 4. Pengujian Key (Sukses)
-[/api/v1/products/public](screenshots/getpublic-keyvalid.png)
+![/api/v1/products/public](./screenshots/getpublic-keyvalid.png)
 
 ## 5. Pengujian Gagal Akses Token 
-[/api/v1/auth/token](screenshots/gagallogin.png)
+![/api/v1/auth/token](./screenshots/gagallogin.png)
 
 ## 6. Pengujian Sukses Akses Token Admin 
-[/api/v1/auth/token](screenshots/sukses-tokenadmin.png)
+![/api/v1/auth/token](./screenshots/sukses-tokenadmin.png)
 
 ## 7. Pengujian Sukses Akses Token User 
-[/api/v1/auth/token](screenshots/sukses-tokenuser.png)
+![/api/v1/auth/token](./screenshots/sukses-tokenuser.png)
 
 ## 8. Pengujian Gagal (Token Hilang)
-[/api/v1/products/private](screenshots/gagal-tokenhilang.png)
+![/api/v1/products/private](./screenshots/gagal-tokenhilang.png)
 
 ## 9. Pengujian Gagal (Token Palsu)
-[/api/v1/products/private](screenshots/gagal-tokenpalsu.png)
+![/api/v1/products/private](./screenshots/gagal-tokenpalsu.png)
 
 ## 10. Pengujian Sukses (Token Valid)
-[/api/v1/products/private](screenshots/sukses-tokenvalid.png)
+![/api/v1/products/private](./screenshots/sukses-tokenvalid.png)
 
 ## 11. Pengujian creat (Creat Admin)
-[/api/v1/products/private](screenshots/id-creatadmin.png)
+![/api/v1/products/private](./screenshots/id-creatadmin.png)
 
 ## 12. Pengujian creat (Creat Admin)
-[/api/v1/products/private](screenshots/id-creatuser.png)
+![/api/v1/products/private](./screenshots/id-creatuser.png)
 
 ## 13. Pengujian update (Admin)
-[/api/v1/products/private/69379751e742c7f62586ef73](screenshots/update-admin.png)
+![/api/v1/products/private/69379751e742c7f62586ef73](./screenshots/update-admin.png)
 
 ## 14. Pengujian delete (User)
-[/api/v1/products/private/69379751e742c7f62586ef73](screenshots/delete-user.png)
+![/api/v1/products/private/69379751e742c7f62586ef73](./screenshots/delete-user.png)
 
 ## 15. Pengujian delete (Admin)
-[/api/v1/products/private/69379751e742c7f62586ef73](screenshots/delete-admin.png)
+![/api/v1/products/private/69379751e742c7f62586ef73](./screenshots/delete-admin.png)
 
 ---
 
