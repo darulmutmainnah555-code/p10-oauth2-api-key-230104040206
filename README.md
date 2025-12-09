@@ -61,8 +61,7 @@ p10-oauth2-api-key-230104040206
 ![http://localhost:3000/](./screenshots/statuscode-berhasil.png)
 
 ## 2. Pengujian Key (Gagal,Key Hilang)
-![/api/v1/products/public]
-(./screenshots/getpublic-keyhilang.png)
+![/api/v1/products/public](./screenshots/getpublic-keyhilangg.png)
 
 ## 3. Pengujian Key (Gagal,Key Palsu)
 ![/api/v1/products/public](./screenshots/getpublic-keypalsu.png)
