@@ -48,11 +48,6 @@ p10-oauth2-api-key-230104040206
 │── package.json
 │── .env
 
-
----
-
-📷 Lampiran Screenshot Hasil Praktikum :
-
 ---
 
 # 📷 Lampiran Screenshot Hasil Praktikum pengujian API menggunakan Postman :
